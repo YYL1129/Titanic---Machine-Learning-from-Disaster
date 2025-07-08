@@ -14,10 +14,9 @@ This project uses machine learning to predict whether a Titanic passenger surviv
 
 ## 📁 Files
 - `titanic_training.ipynb` — trains and tests the model
-- `titanic_model.pkl` — saved trained model
 - `README.md` — this file
 
 ## 💡 Notes
 - Dataset source: [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic)
-- Accuracy: ~81%
+- Accuracy: 81.56 %
 - Model: RandomForestClassifier
